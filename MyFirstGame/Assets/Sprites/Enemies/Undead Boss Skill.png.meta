@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 22d4e6bfc0a12b1419c99e1b8c5e1a4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7649999218255665187
+    second: Undead Boss Skill_0
+  - first:
+      213: 7573284624418018011
+    second: Undead Boss Skill_1
+  - first:
+      213: -2732558841217829520
+    second: Undead Boss Skill_2
+  - first:
+      213: 8917957948970271608
+    second: Undead Boss Skill_3
+  - first:
+      213: -5748368353599042066
+    second: Undead Boss Skill_4
+  - first:
+      213: -2199412749508405488
+    second: Undead Boss Skill_5
+  - first:
+      213: 311633777354029966
+    second: Undead Boss Skill_6
+  - first:
+      213: 5218536393522354656
+    second: Undead Boss Skill_7
+  - first:
+      213: 5173627362390146448
+    second: Undead Boss Skill_8
+  - first:
+      213: 2909064325122946007
+    second: Undead Boss Skill_9
+  - first:
+      213: -6263173136130248771
+    second: Undead Boss Skill_10
+  - first:
+      213: -7721839924545876663
+    second: Undead Boss Skill_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Undead Boss Skill_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 777
+        width: 304
+        height: 417
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281520f1c14a2a60800000000000000
+      internalID: 7649999218255665187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 777
+        width: 324
+        height: 451
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd21d5dad36b91960800000000000000
+      internalID: 7573284624418018011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_2
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 777
+        width: 205
+        height: 437
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bb5d2630041ad0800000000000000
+      internalID: -2732558841217829520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_3
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 777
+        width: 203
+        height: 437
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738e365183f2cb70800000000000000
+      internalID: 8917957948970271608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_4
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 777
+        width: 211
+        height: 431
+      alignment: 9
+      pivot: {x: 0.21255855, y: -0.0054765954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedc1a54071b930b0800000000000000
+      internalID: -5748368353599042066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_5
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 777
+        width: 225
+        height: 431
+      alignment: 9
+      pivot: {x: 0.19052409, y: -0.0024361666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017161fd1cd1a71e0800000000000000
+      internalID: -2199412749508405488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 351
+        height: 431
+      alignment: 9
+      pivot: {x: 0.29545453, y: -0.007913134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3337f445235400800000000000000
+      internalID: 311633777354029966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_7
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 112
+        width: 517
+        height: 431
+      alignment: 9
+      pivot: {x: 0.36669803, y: 0.0015202498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9195f6337fb6840800000000000000
+      internalID: 5218536393522354656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_8
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 112
+        width: 351
+        height: 431
+      alignment: 9
+      pivot: {x: 0.32159057, y: 0.0015202498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d718fccaa6cc740800000000000000
+      internalID: 5173627362390146448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_9
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 112
+        width: 225
+        height: 431
+      alignment: 9
+      pivot: {x: 0.21441948, y: 0.0015202498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f6bf37921f5820800000000000000
+      internalID: 2909064325122946007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_10
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 106
+        width: 211
+        height: 431
+      alignment: 9
+      pivot: {x: 0.2162276, y: 0.010953987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfef26673db419a0800000000000000
+      internalID: -6263173136130248771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Skill_11
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 104
+        width: 324
+        height: 451
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d830d208386d490800000000000000
+      internalID: -7721839924545876663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

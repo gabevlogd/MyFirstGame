@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 045749208aaff75408d902a876f4faa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3800870476571152462
+    second: Undead Boss Death_0
+  - first:
+      213: -2148825368913597327
+    second: Undead Boss Death_1
+  - first:
+      213: 4419977949046113930
+    second: Undead Boss Death_2
+  - first:
+      213: 4558406680147653622
+    second: Undead Boss Death_3
+  - first:
+      213: 6574026416090871050
+    second: Undead Boss Death_4
+  - first:
+      213: 3253453791474907222
+    second: Undead Boss Death_5
+  - first:
+      213: -3493017133783745425
+    second: Undead Boss Death_6
+  - first:
+      213: 4673937819429657889
+    second: Undead Boss Death_7
+  - first:
+      213: 6348488409354981794
+    second: Undead Boss Death_8
+  - first:
+      213: -9189424519052211596
+    second: Undead Boss Death_9
+  - first:
+      213: -8981902793688105637
+    second: Undead Boss Death_10
+  - first:
+      213: -262687864589310677
+    second: Undead Boss Death_11
+  - first:
+      213: -5256871933332546505
+    second: Undead Boss Death_12
+  - first:
+      213: 957972360437976160
+    second: Undead Boss Death_13
+  - first:
+      213: -6556931927400781895
+    second: Undead Boss Death_14
+  - first:
+      213: 7117130703067017512
+    second: Undead Boss Death_15
+  - first:
+      213: -1701867613522157023
+    second: Undead Boss Death_16
+  - first:
+      213: -4153555049090141572
+    second: Undead Boss Death_17
+  - first:
+      213: 5643400917777163445
+    second: Undead Boss Death_18
+  - first:
+      213: 6823321747930983443
+    second: Undead Boss Death_19
+  - first:
+      213: -5375161480999617619
+    second: Undead Boss Death_20
+  - first:
+      213: -8114456869590366548
+    second: Undead Boss Death_21
+  - first:
+      213: 9066177428014727826
+    second: Undead Boss Death_22
+  - first:
+      213: 1025141271350628492
+    second: Undead Boss Death_23
+  - first:
+      213: 5286740809316535259
+    second: Undead Boss Death_24
+  - first:
+      213: -7624365858881220811
+    second: Undead Boss Death_25
+  - first:
+      213: -1390779115581775600
+    second: Undead Boss Death_26
+  - first:
+      213: -988886855282440189
+    second: Undead Boss Death_27
+  - first:
+      213: 240560966582179879
+    second: Undead Boss Death_28
+  - first:
+      213: -6033742176086656638
+    second: Undead Boss Death_29
+  - first:
+      213: 4018546619216328436
+    second: Undead Boss Death_30
+  - first:
+      213: 5153381940514170565
+    second: Undead Boss Death_31
+  - first:
+      213: 8735231551346726378
+    second: Undead Boss Death_32
+  - first:
+      213: -5294540850084732823
+    second: Undead Boss Death_33
+  - first:
+      213: 6861925413235128187
+    second: Undead Boss Death_34
+  - first:
+      213: -743720619427088730
+    second: Undead Boss Death_35
+  - first:
+      213: 3738858029945156406
+    second: Undead Boss Death_36
+  - first:
+      213: -3356471421127651211
+    second: Undead Boss Death_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Undead Boss Death_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 794
+        width: 370
+        height: 439
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfe4be7078904bc0800000000000000
+      internalID: -3800870476571152462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 796
+        width: 374
+        height: 439
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658720e5cf6962d20800000000000000
+      internalID: 3253453791474907222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_6
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 794
+        width: 375
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c77727c6f468fc0800000000000000
+      internalID: -3493017133783745425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_9
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 794
+        width: 227
+        height: 376
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac0ab661b987080800000000000000
+      internalID: -9189424519052211596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_10
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 794
+        width: 219
+        height: 376
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db12f4ffed95380800000000000000
+      internalID: -8981902793688105637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_11
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 794
+        width: 153
+        height: 376
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25295867ceba5cf0800000000000000
+      internalID: -262687864589310677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_12
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 847
+        width: 143
+        height: 310
+      alignment: 9
+      pivot: {x: 0.0023560424, y: -0.16171147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c1ef724d6db07b0800000000000000
+      internalID: -5256871933332546505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_13
+      rect:
+        serializedVersion: 2
+        x: 6381
+        y: 979
+        width: 186
+        height: 153
+      alignment: 9
+      pivot: {x: 0.015260101, y: -1.1794573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4c8849c66b4d00800000000000000
+      internalID: 957972360437976160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_16
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 848
+        width: 157
+        height: 276
+      alignment: 9
+      pivot: {x: 0.013037421, y: -0.1885763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12225412c60c168e0800000000000000
+      internalID: -1701867613522157023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_17
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 899
+        width: 186
+        height: 213
+      alignment: 9
+      pivot: {x: 0.023912655, y: -0.46731237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b3f770bb9b56c0800000000000000
+      internalID: -4153555049090141572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 295
+        width: 146
+        height: 133
+      alignment: 9
+      pivot: {x: -0.013286434, y: -1.2647915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ff008577d34ca0800000000000000
+      internalID: -6033742176086656638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_30
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 295
+        width: 126
+        height: 126
+      alignment: 9
+      pivot: {x: -0.015395392, y: -1.3320451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f67cb7ebdeb4c730800000000000000
+      internalID: 4018546619216328436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_31
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 310
+        width: 110
+        height: 104
+      alignment: 9
+      pivot: {x: 0.01763694, y: -1.794201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a244329d748740800000000000000
+      internalID: 5153381940514170565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_32
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 315
+        width: 103
+        height: 99
+      alignment: 9
+      pivot: {x: 0.018839123, y: -1.910069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55ec090d6c93970800000000000000
+      internalID: 8735231551346726378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_33
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 315
+        width: 103
+        height: 99
+      alignment: 9
+      pivot: {x: 0.018839123, y: -1.9296631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a7e506230686b0800000000000000
+      internalID: -5294540850084732823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_34
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 315
+        width: 106
+        height: 99
+      alignment: 9
+      pivot: {x: -0.018292122, y: -1.8904749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77fa1baec47a3f50800000000000000
+      internalID: 6861925413235128187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_35
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 316
+        width: 106
+        height: 99
+      alignment: 9
+      pivot: {x: 0.018310547, y: -1.9100692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63aea7906cda5f0800000000000000
+      internalID: -743720619427088730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Boss Death_36
+      rect:
+        serializedVersion: 2
+        x: 5092
+        y: 315
+        width: 89
+        height: 99
+      alignment: 9
+      pivot: {x: -0.04357773, y: -1.9296631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337f74a19713e330800000000000000
+      internalID: 3738858029945156406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

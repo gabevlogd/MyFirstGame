@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: bcac01ced534b5b44acfa5cfadf25b27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9721448596135863
+    second: wood tileset_0
+  - first:
+      213: 5043228590533882956
+    second: wood tileset_1
+  - first:
+      213: -1755506720268777260
+    second: wood tileset_2
+  - first:
+      213: -1087044441319148792
+    second: wood tileset_3
+  - first:
+      213: 7607231222186624518
+    second: wood tileset_4
+  - first:
+      213: 8858869290374029838
+    second: wood tileset_5
+  - first:
+      213: -5881275393057104056
+    second: wood tileset_6
+  - first:
+      213: 5968082351234772600
+    second: wood tileset_7
+  - first:
+      213: 5790528490291986734
+    second: wood tileset_8
+  - first:
+      213: 3305592433481066654
+    second: wood tileset_9
+  - first:
+      213: 478525551290013480
+    second: wood tileset_10
+  - first:
+      213: -9195384109874250818
+    second: wood tileset_11
+  - first:
+      213: 8460388039998422807
+    second: wood tileset_12
+  - first:
+      213: -1933790475156613995
+    second: wood tileset_13
+  - first:
+      213: -7382707187426758473
+    second: wood tileset_14
+  - first:
+      213: 243728575599678747
+    second: wood tileset_15
+  - first:
+      213: -1444536277384728313
+    second: wood tileset_16
+  - first:
+      213: -6308480658263135849
+    second: wood tileset_17
+  - first:
+      213: -7333253490824318615
+    second: wood tileset_18
+  - first:
+      213: 4495590927277533062
+    second: wood tileset_19
+  - first:
+      213: -2931016014516672611
+    second: wood tileset_20
+  - first:
+      213: -2689153006399075913
+    second: wood tileset_21
+  - first:
+      213: 7748349901815873314
+    second: wood tileset_22
+  - first:
+      213: 2420569631840772558
+    second: wood tileset_23
+  - first:
+      213: -291747954458481679
+    second: wood tileset_24
+  - first:
+      213: 4485292003297832669
+    second: wood tileset_25
+  - first:
+      213: 6977266533275901665
+    second: wood tileset_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wood tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1099
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940a9bdd4667ddff0800000000000000
+      internalID: -9721448596135863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1399
+        width: 400
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44bdd3dea52df540800000000000000
+      internalID: 5043228590533882956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_2
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1099
+        width: 418
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8819160ff23a7e0800000000000000
+      internalID: -1755506720268777260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_3
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1198
+        width: 204
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803fb1c07da0ae0f0800000000000000
+      internalID: -1087044441319148792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 402
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c1b2ed70529960800000000000000
+      internalID: 7607231222186624518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 899
+        width: 302
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e026c5ceea601fa70800000000000000
+      internalID: 8858869290374029838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_6
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 999
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd59ab033816ea0800000000000000
+      internalID: -5881275393057104056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_7
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 799
+        width: 102
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e60a73743e2d250800000000000000
+      internalID: 5968082351234772600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_8
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 200
+        width: 201
+        height: 801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2102ad7bf61c5050800000000000000
+      internalID: 5790528490291986734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 402
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98abd1fdc2dfdd20800000000000000
+      internalID: 3305592433481066654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 699
+        width: 302
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d69c147014a600800000000000000
+      internalID: 478525551290013480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_11
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 399
+        width: 202
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7cad0fde636080800000000000000
+      internalID: -9195384109874250818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_12
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 795
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fb11ae816596570800000000000000
+      internalID: 8460388039998422807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 499
+        width: 302
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594914afecbc925e0800000000000000
+      internalID: -1933790475156613995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_14
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 599
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b074b4adea5b8990800000000000000
+      internalID: -7382707187426758473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_15
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 599
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b151b3229d5e16300800000000000000
+      internalID: 243728575599678747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 402
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7017151c8e9f3fbe0800000000000000
+      internalID: -1444536277384728313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 299
+        width: 302
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799adcbd346c378a0800000000000000
+      internalID: -6308480658263135849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_18
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 399
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f587adcc0b3a90800000000000000
+      internalID: -7333253490824318615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_19
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 299
+        width: 102
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a8d3312c836e30800000000000000
+      internalID: 4495590927277533062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_20
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 1002
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a0c7c670f257d0800000000000000
+      internalID: -2931016014516672611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_21
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1400
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c8e2a6953eaad0800000000000000
+      internalID: -2689153006399075913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_22
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1400
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffa25ee2ba78b60800000000000000
+      internalID: 7748349901815873314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a7f36147979120800000000000000
+      internalID: 2420569631840772558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2e8af7c083fbf0800000000000000
+      internalID: -291747954458481679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 199
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddea77a1055fe3e30800000000000000
+      internalID: 4485292003297832669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood tileset_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1400
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9123e1fa34d060800000000000000
+      internalID: 6977266533275901665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
